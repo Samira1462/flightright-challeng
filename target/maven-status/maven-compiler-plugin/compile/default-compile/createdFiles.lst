@@ -1,0 +1,5 @@
+com/flightright/codechallenge/util/StringUtils.class
+com/flightright/codechallenge/transformer/UserTransformer.class
+com/flightright/codechallenge/service/UserService.class
+com/flightright/codechallenge/util/CsvFileUtils.class
+com/flightright/codechallenge/model/User.class
